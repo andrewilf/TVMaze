@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  color: lightseagreen;
+  font-size: 80px;
+  margin: 0px;
+  padding : 0px;
+}
+
+.showResults {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.result {
+  width: 350px;
+}
+
+img {
+  width: 200px;
+  height: 280px;
+  padding-top: 4px;
+}
